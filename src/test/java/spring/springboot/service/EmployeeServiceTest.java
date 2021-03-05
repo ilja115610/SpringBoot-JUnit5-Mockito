@@ -1,4 +1,4 @@
-package spring.springboot.serviceIntegrationTests;
+package spring.springboot.service;
 
 
 import static org.assertj.core.api.Assertions.*;

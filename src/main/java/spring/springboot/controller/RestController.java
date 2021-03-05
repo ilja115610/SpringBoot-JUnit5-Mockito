@@ -1,8 +1,8 @@
-package spring.springboot.employeeRepositoryTests;
+package spring.springboot.controller;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import spring.springboot.entity.Employee;
-import spring.springboot.serviceIntegrationTests.EmployeeService;
+import spring.springboot.service.EmployeeService;
 
 import java.util.List;
 
